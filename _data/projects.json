@@ -1,0 +1,103 @@
+{
+  "heading" : {
+    "en" : "Projects"
+  },
+  
+  "role" : {
+    "en" : "Role"
+  },
+  
+  "type" : {
+    "en" : "Tags"
+  },
+  
+  "homepage" : {
+    "en" : "Homepage"
+  },
+  
+  "sourcecode" : {
+    "en" : "Source Code"
+  },
+
+  
+  
+  "projects" : [
+    {
+      "title": "Semantic Image Segmentation using 2D Projections of 3D Meshes.",
+      "date": "2020-05-18",
+      "status": "ongoing",
+      "thumbnail": "projects/ifp.png",
+      "role": "Core Contributer as Research Intern.",
+      "type": "#Research #DeepLearning #ComputerGraphics #Photogrammetry",
+      "priority": 5,
+      "caption": {
+        "en": "A complete data preparation (via ray casting) and deep learning pipeline for Semantic Image Segmentation of City Meshes using 2D Projections of the 3D Meshes.",
+      },
+      "homepage": "https://www.ifp.uni-stuttgart.de/en/research/",
+      "sourcecode": "#projects",
+      "downloads": []
+    },
+    {
+      "title": "Multi-Domain Localization of Autonomous Agent.",
+      "date": "2020-01-18",
+      "status": "ongoing",
+      "thumbnail": "projects/multi-domain.png",
+      "role": "Core Contributer (Team of 3).",
+      "type": "#Research #DeepLearning #Robotics #ComputerVision",
+      "priority": 4,
+      "caption": {
+        "en": "Localization of an agent running in a different domains by comparing with a static map. Siamese embeddings, custom dynamic-branched CNN, and particle filters used.",
+      },
+      "homepage": "https://cir.iiita.ac.in/",
+      "sourcecode": "https://github.com/pani-vishal/cross-domain-localization",
+      "downloads": []
+    },
+    {
+      "title": "Learn.ai.",
+      "date": "2020-02-18",
+      "status": "completed",
+      "thumbnail": "projects/learnai.png",
+      "role": "Contributer (Team of 4).",
+      "type": "#Hackathon #MachineLearning #AccessibleAI",
+      "priority": 3,  
+      "caption": {
+        "en": "Webapp to constuct ML models or neural networks in a \"no-code\" fashion, by dragging and dropping layers. Backed by <a href='http://www.newgeniedc-edii.in/'>NewGen IDEC</a>.",
+      },
+      "homepage": "https://cir.iiita.ac.in/",
+      "sourcecode": "https://github.com/zerefwayne/learn.ai",
+      "downloads": []
+    },
+    {
+      "title": "DRDO: Super-resolution in the Wild",
+      "date": "2020-02-28",
+      "status": "completed",
+      "thumbnail": "projects/drdo.png",
+      "role": "Project Personnel (Team of 4).",
+      "type": "#DeepLearning #GAN",
+      "priority": 2,  
+      "caption": {
+        "en": "Created a novel super-resolution dataset from real-world scenes with varying zoom levels. Trained an ESRGAN model and made it accessbile via a python software wrapper.",
+      },
+      "homepage": "#projects",
+      "sourcecode": "#projects",
+      "downloads": []
+    },
+    {
+      "title": "Stabilization Techniques for the Training of Generative Adversarial Networks",
+      "date": "2019-05-28",
+      "status": "completed",
+      "thumbnail": "projects/isi_prj.png",
+      "role": "Core Contributer as Research Intern.",
+      "type": "#Research #DeepLearning #GAN",
+      "priority": 1,  
+      "caption": {
+        "en": "Stabilized the error oscillation of Discriminator by adding a damping term to its. objective function. Further, improved structural integrity of outputs by using a pre-training scheme.",
+      },
+      "homepage": "#projects",
+      "sourcecode": "https://github.com/pani-vishal/gan_stabilization",
+      "downloads": []
+    },
+
+
+  ]
+}

@@ -1,0 +1,38 @@
+{ 
+  "heading" : {"en" : "Contact"},
+
+  "email" : "panivishal17@gmail.com", 
+
+  "email_label" : {"en" : "E-Mail"},
+
+  "alternative_emails" : [ "iit2017066@iiita.ac.in",
+                           "panivishaldl@gmail.com" ],
+
+  "alternative_label" : { "en" : "Other" },
+
+  "phone" : { 
+    "en" : "+91 79908 26365" },
+
+  "phone_label" : {"en" : "Phone" },
+
+  "refs" : [ 
+  	{ "name" : "LinkedIn", "href" : "https://www.linkedin.com/in/vishal-pani-313888159/" },
+  	{ "name" : "GitHub", "href" : "https://github.com/pani-vishal" }
+  	],
+
+  "refs_label" : { "en" : "More" },
+
+  "formspree" : "panivishaldl@gmail.com",
+
+  "form_legend" : { "en" : "Drop Me a Line" },
+
+  "name_label" : { "en" : "Name" },
+
+  "message_label" : { "en" : "Message" },
+
+  "submit_button" : { "en" : "Submit" },
+
+   "submit_info" : {
+   	"en" : "To panivishaldl@gmail.com via <a href='https://formspree.io/'>Formspree</a>." },
+
+}
