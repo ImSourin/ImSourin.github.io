@@ -14,11 +14,11 @@ layout: compress
 {% include header.html %}
 </section>
 
-<!-- {% if site.data.publications.publications.size > 0 %} -->
+{% if site.data.publications.publications.size > 0 %}
 <section id="publications" class="container">
 {% include publications.html %}
 </section>
-<!-- {% endif %} -->
+{% endif %}
 
 {% if site.data.projects.projects.size > 0 %}
 <section id="projects" class="container">
