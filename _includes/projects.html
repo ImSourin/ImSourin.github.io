@@ -11,7 +11,7 @@
       {% assign thumbnail_flickr = p.flickr %}
       {% if p.thumbnail %}{% include thumbnail.html %}{% endif %}
     </div>
-    <div class="col-7 offset-0 col-sm-7">
+    <div class="col-9 offset-0 col-sm-9">
       <h4>{{ p.title | escape }}</h4>
       {% if p.role or p.type or p.homepage or p.sourcecode %}<p>
         {% if p.role %}{{ site.data.projects.role[page.lang] }}: {{ p.role }}{% endif %}
@@ -23,7 +23,7 @@
         {% if p.sourcecode %}<a href="{{ p.sourcecode }}">{{ site.data.projects.sourcecode[page.lang] }}</a>{% endif %}
       </p>{% endif %}
     </div>
-    <div class="col-9 offset-0 col-sm-9">
+    <div class="col-10 offset-0 col-sm-10">
       <p>
         {{ p.caption.[page.lang] }}
       </p>
