@@ -1,28 +1,28 @@
 { 
   "heading" : {"en" : "Contact"},
 
-  "email" : "panivishal17@gmail.com", 
+  "email" : "sourin.chakrabarti@gmail.com", 
 
   "email_label" : {"en" : "E-Mail"},
 
-  "alternative_emails" : [ "iit2017066@iiita.ac.in",
-                           "panivishaldl@gmail.com" ],
+  "alternative_emails" : [ "iit2016513@iiita.ac.in",
+                           "sourinc@amazon.com" ],
 
   "alternative_label" : { "en" : "Other" },
 
   "phone" : { 
-    "en" : "+91 79908 26365" },
+    "en" : "+91 8797964287" },
 
   "phone_label" : {"en" : "Phone" },
 
   "refs" : [ 
-  	{ "name" : "LinkedIn", "href" : "https://www.linkedin.com/in/vishal-pani-313888159/" },
-  	{ "name" : "GitHub", "href" : "https://github.com/pani-vishal" }
+  	{ "name" : "LinkedIn", "href" : "https://www.linkedin.com/in/sourinc/" },
+  	{ "name" : "GitHub", "href" : "https://github.com/ImSourin" }
   	],
 
   "refs_label" : { "en" : "More" },
 
-  "formspree" : "panivishaldl@gmail.com",
+  "formspree" : "sourin.chakrabarti@gmail.com",
 
   "form_legend" : { "en" : "Drop Me a Line" },
 
@@ -33,6 +33,6 @@
   "submit_button" : { "en" : "Submit" },
 
    "submit_info" : {
-   	"en" : "To panivishaldl@gmail.com via <a href='https://formspree.io/'>Formspree</a>." },
+   	"en" : "To sourin.chakrabarti@gmail.com via <a href='https://formspree.io/'>Formspree</a>." },
 
 }
