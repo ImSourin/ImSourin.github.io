@@ -26,7 +26,7 @@
       "title": "Distributed grid restoration using graph theory",
       "date": "Jan 2020 - July 2020",
       "status": "ongoing",
-      "thumbnail": "projects/ifp.png",
+      "thumbnail": "grid.JPG",
       "role": "Undergrauate Researcher",
       "priority": 6,
       "caption": {
@@ -38,7 +38,7 @@
       "title": "Sequential Minimal Optimization for One-Class Slab Support Vector Machines",
       "date": "Aug 2019 - Jun 2020",
       "status": "ongoing",
-      "thumbnail": "projects/multi-domain.png",
+      "thumbnail": "smo.JPG",
       "role": "Undergrauate Researcher",
       "priority": 7,
       "caption": {
@@ -50,7 +50,7 @@
       "title": "Network Intrusion detection using deep learning",
       "date": "Jan 2019 - May 2020",
       "status": "ongoing",
-      "thumbnail": "projects/multi-domain.png",
+      "thumbnail": "network.png",
       "role": "Undergrauate Researcher",
       "priority": 4,
       "caption": {
@@ -62,7 +62,7 @@
       "title": "Text Writing In Air",
       "date": "Aug 2018 - Dec 2018",
       "status": "ongoing",
-      "thumbnail": "projects/multi-domain.png",
+      "thumbnail": "finger.JPG",
       "role": "Undergrauate Researcher",
       "priority": 3,
       "caption": {
@@ -74,7 +74,7 @@
       "title": "Efficient Image Retrieval Using Neural Hash codes and Bloom filters",
       "date": "Jun 2020 - Sep 2020",
       "status": "ongoing",
-      "thumbnail": "projects/multi-domain.png",
+      "thumbnail": "res.JPG",
       "role": "Independent Project",
       "priority": 5,
       "caption": {
@@ -86,7 +86,7 @@
       "title": "Iris Segmentation from Illuminated images for Iris Recognition",
       "date": "July 2019 - Dec 2019",
       "status": "ongoing",
-      "thumbnail": "projects/multi-domain.png",
+      "thumbnail": "iris.JPG",
       "role": "Preject for Coursework",
       "priority": 2,
       "caption": {
