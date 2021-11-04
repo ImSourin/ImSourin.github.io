@@ -15,7 +15,7 @@
             "caption"   : {
                 "en": "We present MotionViz, an interactive iOS mobile app that enables users to amplify motion and dynamics in videos. MotionViz implements novel augmented reality and expressive rendering techniques in an end-to-end processing pipeline: multi-dimensional video data is captured, analyzed, and processed to render animated graphical elements that help express figures and actions. Through an easy-to-use graphical user interface, users can choose from a curated list of artistic motion visualization effects, including the overlay of animated silhouettes, halos, and contour lines. MotionViz is based on Apple’s LiDAR technology, accelerated image processing APIs, and dedicated Neural Engine for real-time on-device processing."
             },
-            "thumbnail" : "/img/res.JPG",
+            "thumbnail" : "res.JPG",
             "downloads" : [
                             { 
                                 "href"    : "https://doi.org/10.1109/INOCON50539.2020.9298228",
@@ -35,7 +35,7 @@
             "caption"   : {
                 "en": "We present MotionViz, an interactive iOS mobile app that enables users to amplify motion and dynamics in videos. MotionViz implements novel augmented reality and expressive rendering techniques in an end-to-end processing pipeline: multi-dimensional video data is captured, analyzed, and processed to render animated graphical elements that help express figures and actions. Through an easy-to-use graphical user interface, users can choose from a curated list of artistic motion visualization effects, including the overlay of animated silhouettes, halos, and contour lines. MotionViz is based on Apple’s LiDAR technology, accelerated image processing APIs, and dedicated Neural Engine for real-time on-device processing."
             },
-            "thumbnail" : "/img/grid.JPG",
+            "thumbnail" : "grid.JPG",
             "downloads" : [
                             { 
                                 "href"    : "https://doi.org/10.1109/iSSSC50941.2020.9358911",
@@ -55,7 +55,7 @@
             "caption"   : {
                 "en": "We present MotionViz, an interactive iOS mobile app that enables users to amplify motion and dynamics in videos. MotionViz implements novel augmented reality and expressive rendering techniques in an end-to-end processing pipeline: multi-dimensional video data is captured, analyzed, and processed to render animated graphical elements that help express figures and actions. Through an easy-to-use graphical user interface, users can choose from a curated list of artistic motion visualization effects, including the overlay of animated silhouettes, halos, and contour lines. MotionViz is based on Apple’s LiDAR technology, accelerated image processing APIs, and dedicated Neural Engine for real-time on-device processing."
             },
-            "thumbnail" : "/img/SMO.JPG",
+            "thumbnail" : "SMO.JPG",
             "downloads" : [
                             { 
                                 "href"    : "https://doi.org/10.1016/j.knosys.2021.107267",
