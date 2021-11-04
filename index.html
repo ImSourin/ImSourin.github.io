@@ -1,4 +1,12 @@
 ---
 layout: compress
 ---
-<!DOCTYPE html><html lang="{{ page.lang }}"><head><meta charset="{{ site.encoding }}"><meta http-equiv="refresh" content="0;url={{ site.url }}/{{ page.lang }}"><title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title><meta name="description" content="{{ site.description }}"><script>window.location.href = "{{ site.url }}/{{ page.lang }}"</script></head><body>If you are not redirected automatically, please manually continue to <a href='{{ site.url }}/{{ page.lang }}'>{{ site.url }}/{{ page.lang }}</a>.</body></html>
+<!DOCTYPE html><html lang="{{ page.lang }}"><head><meta charset="{{ site.encoding }}"><meta http-equiv="refresh" content="0;url={{ site.url }}/{{ page.lang }}"><title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title><meta name="description" content="{{ site.description }}"><script>window.location.href = "{{ site.url }}/{{ page.lang }}"</script><!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CRVK8Y87MN"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'G-CRVK8Y87MN');
+    </script></head><body>If you are not redirected automatically, please manually continue to <a href='{{ site.url }}/{{ page.lang }}'>{{ site.url }}/{{ page.lang }}</a>.</body></html>
