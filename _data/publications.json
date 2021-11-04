@@ -4,21 +4,61 @@
     },
     "publications": [ 
         { 
-            "key"       : "wsltd2020-scatterplot",
+            "key"       : "9298228",
             "featured"  : "true",
             "thesis"    : "false",
-            "bibtex"    : "wsltd2020-scatterplot.bib",
-            "title"     : "MotionViz: Artistic Visualization of Human Motion on Mobile Devices",
-            "date"      : "2021-08-01",
-            "authors"   : [ "Maximilian Mayer", "Philipp Trenz", "Sebastian Pasewaldt", "Mandy Klingbeil", "Jürgen Döllner", "Matthias Trapp", "Amir Semmo" ],
-            "published" : "ACM SIGGRAPH Appy Hour",
+            "bibtex"    : "9298228.bib",
+            "title"     : "Efficient Image Retrieval Using Neural Hash codes and Bloom filter",
+            "date"      : "2020-11-06",
+            "authors"   : [ "Sourin Chakrabarti" ],
+            "published" : "2020 IEEE International Conference for Innovation in Technology (INOCON)",
             "caption"   : {
                 "en": "We present MotionViz, an interactive iOS mobile app that enables users to amplify motion and dynamics in videos. MotionViz implements novel augmented reality and expressive rendering techniques in an end-to-end processing pipeline: multi-dimensional video data is captured, analyzed, and processed to render animated graphical elements that help express figures and actions. Through an easy-to-use graphical user interface, users can choose from a curated list of artistic motion visualization effects, including the overlay of animated silhouettes, halos, and contour lines. MotionViz is based on Apple’s LiDAR technology, accelerated image processing APIs, and dedicated Neural Engine for real-time on-device processing."
             },
             "thumbnail" : "/img/drdo.png",
             "downloads" : [
                             { 
-                                "href"    : "http://dx.doi.org/10.1145/3450415.3464398",
+                                "href"    : "https://doi.org/10.1109/INOCON50539.2020.9298228",
+                                "desc"    : "DOI"
+                            } 
+                        ]
+        },
+        { 
+            "key"       : "9358911",
+            "featured"  : "true",
+            "thesis"    : "false",
+            "bibtex"    : "9358911.bib",
+            "title"     : "Distributed Grid restoration based on graph theory",
+            "date"      : "2020-12-16",
+            "authors"   : [ "Ayush Sinha", "Sourin Chakrabarti", "Dr. Om Prakash Vyas" ],
+            "published" : "2020 IEEE International Symposium on Sustainable Energy, Signal Processing and Cyber Security (iSSSC)",
+            "caption"   : {
+                "en": "We present MotionViz, an interactive iOS mobile app that enables users to amplify motion and dynamics in videos. MotionViz implements novel augmented reality and expressive rendering techniques in an end-to-end processing pipeline: multi-dimensional video data is captured, analyzed, and processed to render animated graphical elements that help express figures and actions. Through an easy-to-use graphical user interface, users can choose from a curated list of artistic motion visualization effects, including the overlay of animated silhouettes, halos, and contour lines. MotionViz is based on Apple’s LiDAR technology, accelerated image processing APIs, and dedicated Neural Engine for real-time on-device processing."
+            },
+            "thumbnail" : "/img/drdo.png",
+            "downloads" : [
+                            { 
+                                "href"    : "https://doi.org/10.1109/iSSSC50941.2020.9358911",
+                                "desc"    : "DOI"
+                            } 
+                        ]
+        },
+        { 
+            "key"       : "9358911",
+            "featured"  : "true",
+            "thesis"    : "false",
+            "bibtex"    : "9358911.bib",
+            "title"     : "A fast learning algorithm for One-Class Slab Support Vector Machines",
+            "date"      : "2020-12-16",
+            "authors"   : [ "Bagesh Kumar", "Ayush Sinha", "Sourin Chakrabarti", "Dr. Om Prakash Vyas" ],
+            "published" : "Elsevier Knowledge-Based Systems",
+            "caption"   : {
+                "en": "We present MotionViz, an interactive iOS mobile app that enables users to amplify motion and dynamics in videos. MotionViz implements novel augmented reality and expressive rendering techniques in an end-to-end processing pipeline: multi-dimensional video data is captured, analyzed, and processed to render animated graphical elements that help express figures and actions. Through an easy-to-use graphical user interface, users can choose from a curated list of artistic motion visualization effects, including the overlay of animated silhouettes, halos, and contour lines. MotionViz is based on Apple’s LiDAR technology, accelerated image processing APIs, and dedicated Neural Engine for real-time on-device processing."
+            },
+            "thumbnail" : "/img/drdo.png",
+            "downloads" : [
+                            { 
+                                "href"    : "https://doi.org/10.1016/j.knosys.2021.107267",
                                 "desc"    : "DOI"
                             } 
                         ]
