@@ -7,7 +7,7 @@
             "key"       : "mtpkdts2021",
             "featured"  : "true",
             "thesis"    : "false",
-            "bibtex"    : "bib/2021-mtpkdts.bib",
+            "bibtex"    : "bib/wsltd2020-scatterplot.bib",
             "title"     : "MotionViz: Artistic Visualization of Human Motion on Mobile Devices",
             "date"      : "2021-08-01",
             "authors"   : [ "Maximilian Mayer", "Philipp Trenz", "Sebastian Pasewaldt", "Mandy Klingbeil", "Jürgen Döllner", "Matthias Trapp", "Amir Semmo" ],
