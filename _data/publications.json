@@ -11,7 +11,7 @@
             "title"     : "Efficient Image Retrieval Using Neural Hash codes and Bloom filter",
             "date"      : "2020-11-06",
             "authors"   : [ "Sourin Chakrabarti" ],
-            "published" : "2020 IEEE International Conference for Innovation in Technology (INOCON)",
+            "published" : "IEEE International Conference for Innovation in Technology (INOCON)",
             "caption"   : {
                 "en": "We present MotionViz, an interactive iOS mobile app that enables users to amplify motion and dynamics in videos. MotionViz implements novel augmented reality and expressive rendering techniques in an end-to-end processing pipeline: multi-dimensional video data is captured, analyzed, and processed to render animated graphical elements that help express figures and actions. Through an easy-to-use graphical user interface, users can choose from a curated list of artistic motion visualization effects, including the overlay of animated silhouettes, halos, and contour lines. MotionViz is based on Apple’s LiDAR technology, accelerated image processing APIs, and dedicated Neural Engine for real-time on-device processing."
             },
@@ -31,7 +31,7 @@
             "title"     : "Distributed Grid restoration based on graph theory",
             "date"      : "2020-12-16",
             "authors"   : [ "Ayush Sinha", "Sourin Chakrabarti", "Dr. Om Prakash Vyas" ],
-            "published" : "2020 IEEE International Symposium on Sustainable Energy, Signal Processing and Cyber Security (iSSSC)",
+            "published" : "IEEE International Symposium on Sustainable Energy, Signal Processing and Cyber Security (iSSSC)",
             "caption"   : {
                 "en": "We present MotionViz, an interactive iOS mobile app that enables users to amplify motion and dynamics in videos. MotionViz implements novel augmented reality and expressive rendering techniques in an end-to-end processing pipeline: multi-dimensional video data is captured, analyzed, and processed to render animated graphical elements that help express figures and actions. Through an easy-to-use graphical user interface, users can choose from a curated list of artistic motion visualization effects, including the overlay of animated silhouettes, halos, and contour lines. MotionViz is based on Apple’s LiDAR technology, accelerated image processing APIs, and dedicated Neural Engine for real-time on-device processing."
             },

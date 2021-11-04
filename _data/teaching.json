@@ -1,12 +1,12 @@
 {
-  "heading" : {"en" : "The Journey So Far..."},
+  "heading" : {"en" : "Research Experience..."},
 
   "terms" : [
-  { "term" : "2017 - present:",
+  { "term" : "Jan 2020 - Jul 2020:",
     "courses" : 
     [ { "course" : "IIIT - Allahabad",
-        "type"   : "Bachelor (Hons.) of Technology",
-        "role"   : "Information Technology"
+        "type"   : "Indo-Norway collaborative project on CPSEC",
+        "role"   : "Supervisor: Dr. Om Prakash Vyas"
       } ]
   },
   { "term" : "",
@@ -23,25 +23,18 @@
         "role"   : ""
       } ]
   },
-  { "term" : "May 2020 - present:",
+  { "term" : "Aug 2019 - Jun 2020:",
     "courses" : 
-    [ { "course" : "University of Stuttgart",
-        "type"   : "Institute for Photogrammetry",
-        "role"   : "Research Intern"
+    [ { "course" : "IIIT - Allahabad",
+        "type"   : "Sequential Minimal Optimization for One-Class Slab Support Vector Machines",
+        "role"   : "Supervisor: Dr. Om Prakash Vyas"
       } ]
   },
-  { "term" : "Feb 2020 - Sept 2020:",
+  { "term" : "Jan 2019 - May 2019:",
     "courses" : 
-    [ { "course" : "DRDO, Ministry of Defense",
-        "type"   : "CARS project",
-        "role"   : "Project Personnel"
-      } ]
-  },
-  { "term" : "",
-    "courses" : 
-    [ { "course" : "",
-        "type"   : "",
-        "role"   : ""
+    [ { "course" : "IIIT - Allahabad",
+        "type"   : "Network Intrusion detection using deep learning",
+        "role"   : "Supervisor: Dr. Vijay Kumar Chaurasia"
       } ]
   },
   { "term" : "",
@@ -51,11 +44,18 @@
         "role"   : ""
       } ]
   },
-  { "term" : "2019 Summer:",
+  { "term" : "",
     "courses" : 
-    [ { "course" : "ISI - Kolkata",
-        "type"   : "ECSU Unit",
-        "role"   : "Research Intern"
+    [ { "course" : "",
+        "type"   : "",
+        "role"   : ""
+      } ]
+  },
+  { "term" : "Aug 2018 - Dec 2018:",
+    "courses" : 
+    [ { "course" : "IIIT - Allahabad",
+        "type"   : "Text Writing In Air",
+        "role"   : "Supervisor: Dr. Ranjana Vyas"
       } ]
   },
   ]

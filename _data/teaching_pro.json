@@ -1,12 +1,12 @@
 {
-  "heading" : {"en" : "The Journey So Far..."},
+  "heading" : {"en" : "Professional Experience..."},
 
   "terms" : [
-  { "term" : "2017 - present:",
+  { "term" : "Sep 2021 - present:",
     "courses" : 
-    [ { "course" : "IIIT - Allahabad",
-        "type"   : "Bachelor (Hons.) of Technology",
-        "role"   : "Information Technology"
+    [ { "course" : "Amazon Inc.",
+        "type"   : "Software Development Engineer",
+        "role"   : "Full Time"
       } ]
   },
   { "term" : "",
@@ -23,25 +23,18 @@
         "role"   : ""
       } ]
   },
-  { "term" : "May 2020 - present:",
+  { "term" : "July 2020 - Aug 2020:",
     "courses" : 
-    [ { "course" : "University of Stuttgart",
-        "type"   : "Institute for Photogrammetry",
-        "role"   : "Research Intern"
+    [ { "course" : "MindTickle Inc.",
+        "type"   : "Software Development Engineer",
+        "role"   : "Full Time"
       } ]
   },
-  { "term" : "Feb 2020 - Sept 2020:",
+  { "term" : "Jan 2020 - Jun 2020:",
     "courses" : 
-    [ { "course" : "DRDO, Ministry of Defense",
-        "type"   : "CARS project",
-        "role"   : "Project Personnel"
-      } ]
-  },
-  { "term" : "",
-    "courses" : 
-    [ { "course" : "",
-        "type"   : "",
-        "role"   : ""
+    [ { "course" : "MindTickle Inc.",
+        "type"   : "Software Development Engineering Intern",
+        "role"   : "Internship"
       } ]
   },
   { "term" : "",
@@ -51,11 +44,18 @@
         "role"   : ""
       } ]
   },
-  { "term" : "2019 Summer:",
+  { "term" : "",
     "courses" : 
-    [ { "course" : "ISI - Kolkata",
-        "type"   : "ECSU Unit",
-        "role"   : "Research Intern"
+    [ { "course" : "",
+        "type"   : "",
+        "role"   : ""
+      } ]
+  },
+  { "term" : "Apr 2019 - Jul 2019:",
+    "courses" : 
+    [ { "course" : "MindTickle Inc.",
+        "type"   : "Software Development Engineering Intern",
+        "role"   : "Internship"
       } ]
   },
   ]
