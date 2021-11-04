@@ -23,79 +23,88 @@
   
   "projects" : [
     {
-      "title": "Semantic Image Segmentation using 2D Projections of 3D Meshes.",
-      "date": "2020-05-18",
+      "title": "Distributed grid restoration using graph theory",
+      "date": "Jan 2020 - July 2020",
       "status": "ongoing",
       "thumbnail": "projects/ifp.png",
-      "role": "Core Contributer as Research Intern.",
-      "type": "#Research #DeepLearning #ComputerGraphics #Photogrammetry",
-      "priority": 5,
+      "role": "Undergrauate Researcher",
+      "priority": 6,
       "caption": {
-        "en": "A complete data preparation (via ray casting) and deep learning pipeline for Semantic Image Segmentation of City Meshes using 2D Projections of the 3D Meshes.",
+        "en": "Our work was directed towards a resilient architecture for smart grids which anticipate high load and attacks in the grid prematurely and re-configures through deep learning combined with convex optimization and graph search. We proposed a meta heuristic-based graph search mechanism for distributed smart grid restoration strategy modeled on the linearized DistFlow Model, with tree pruning to decrease the complexity to n3. The model was tested on IEEE-37 and IEEE-1069 bus test systems. It achieved up to 35% load reduction in a 3-fault 1069 bus system. We also worked on load prediction using Gated Transformer Networks and a load balancing mechanism which used graph-based CSP for a weighted Convex Bipartite Graphs."
       },
-      "homepage": "https://www.ifp.uni-stuttgart.de/en/research/",
-      "sourcecode": "#projects",
-      "downloads": []
+      "sourcecode": "https://ieeexplore.ieee.org/document/9358911/"
     },
     {
-      "title": "Multi-Domain Localization of Autonomous Agent.",
-      "date": "2020-01-18",
+      "title": "Sequential Minimal Optimization for One-Class Slab Support Vector Machines",
+      "date": "Aug 2019 - Jun 2020",
       "status": "ongoing",
       "thumbnail": "projects/multi-domain.png",
-      "role": "Core Contributer (Team of 3).",
-      "type": "#Research #DeepLearning #Robotics #ComputerVision",
+      "role": "Undergrauate Researcher",
+      "priority": 7,
+      "caption": {
+        "en": "Proposed a fast training method for  One  Class  Slab SVMs using a modified Sequential Minimal Optimization(SMO) algorithm. Reduced the Lagrangian to a 2-variable function and devised a suitable variable pair selection heuristic. The optimality criterion was determined through KKT analysis. The proposed algorithm was compared against other state-of-the-art One-Class Classifiers such as SVDD, KPCA, Markov Sampled OCSVM, etc., for training time and accuracy(MCC). Our approach was seen to have MCCs comparable to the original OCSSVM(and better than other SOTA classifiers) with approx. 75% reduction in its training time."
+      },
+      "sourcecode": "https://www.sciencedirect.com/science/article/abs/pii/S0950705121005293",
+    },
+    {
+      "title": "Network Intrusion detection using deep learning",
+      "date": "Jan 2019 - May 2020",
+      "status": "ongoing",
+      "thumbnail": "projects/multi-domain.png",
+      "role": "Undergrauate Researcher",
       "priority": 4,
       "caption": {
-        "en": "Localization of an agent running in a different domains by comparing with a static map. Siamese embeddings, custom dynamic-branched CNN, and particle filters used.",
+        "en": "Implemented a system that detects attacks on a network server in real-time by converting network packets into multi-channel images and detecting anomalies using a novel combination of an SVM with a new feature descriptor and a deep CNN. The network packets retrieved from the CICIDS2017 dataset were normalized and quantized before converting to images. The system also ran live on our college network(~10k nodes) to detect any anomalies in the traffic."
       },
-      "homepage": "https://cir.iiita.ac.in/",
-      "sourcecode": "https://github.com/pani-vishal/cross-domain-localization",
-      "downloads": []
+      "sourcecode": "https://github.com/ImSourin/Network-Intrusion-Detection",
     },
     {
-      "title": "Learn.ai.",
-      "date": "2020-02-18",
-      "status": "completed",
-      "thumbnail": "projects/learnai.png",
-      "role": "Contributer (Team of 4).",
-      "type": "#Hackathon #MachineLearning #AccessibleAI",
-      "priority": 3,  
+      "title": "Text Writing In Air",
+      "date": "Aug 2018 - Dec 2018",
+      "status": "ongoing",
+      "thumbnail": "projects/multi-domain.png",
+      "role": "Undergrauate Researcher",
+      "priority": 3,
       "caption": {
-        "en": "Webapp to constuct ML models or neural networks in a \"no-code\" fashion, by dragging and dropping layers. Backed by <a href='http://www.newgeniedc-edii.in/'>NewGen IDEC</a>.",
+        "en": "Implemented a text writing system for the disabled using finger movements in front of a camera. Fingertip detection in dynamic backgrounds was carried out through semantic segmentation, upsampling, and skipping connections. OCR for the handwritten text was performed using a dense CNN followed by bidirectional LSTM layers. CTC objective function was used to minimize the loss and Levenshtein distance was chosen to track the performance of the network. The model was trained on the IAM Handwriting Database. It showed an accuracy of about 0.80 on the training set."
       },
-      "homepage": "https://cir.iiita.ac.in/",
-      "sourcecode": "https://github.com/zerefwayne/learn.ai",
-      "downloads": []
+      "sourcecode": "https://github.com/ImSourin/Text-Writing-in-Air",
     },
     {
-      "title": "DRDO: Super-resolution in the Wild",
-      "date": "2020-02-28",
-      "status": "completed",
-      "thumbnail": "projects/drdo.png",
-      "role": "Project Personnel (Team of 4).",
-      "type": "#DeepLearning #GAN",
-      "priority": 2,  
+      "title": "Efficient Image Retrieval Using Neural Hash codes and Bloom filters",
+      "date": "Jun 2020 - Sep 2020",
+      "status": "ongoing",
+      "thumbnail": "projects/multi-domain.png",
+      "role": "Independent Project",
+      "priority": 5,
       "caption": {
-        "en": "Created a novel super-resolution dataset from real-world scenes with varying zoom levels. Trained an ESRGAN model and made it accessbile via a python software wrapper.",
+        "en": "Proposed a novel image retrieval approach using PCA-compressed neural activations and bloom filter for query elimination. Retrieval was carried out in a hierarchical coarse-to-fine approach. Engineered a novel approach of extracting neural codes in a single feed-forward cycle from an 8-layer dense CNN pre-trained on Image-Net classes. The model was trained on the Oxford 5k, Paris 6k, and the Inria Holidays datasets with distractor data from the Flickr 100 database. The size of the filter was kept to be 2n and 5n. The model was competitive in terms of mAP against the SOTA retrieval mechanisms which used Fisher vectors, VLAD, and triangulation embeddings. But, the meantime for a query significantly improved due to query reduction by bloom filters"
       },
-      "homepage": "#projects",
-      "sourcecode": "#projects",
-      "downloads": []
+      "sourcecode": "https://ieeexplore.ieee.org/document/9298228/",
     },
     {
-      "title": "Stabilization Techniques for the Training of Generative Adversarial Networks",
-      "date": "2019-05-28",
-      "status": "completed",
-      "thumbnail": "projects/isi_prj.png",
-      "role": "Core Contributer as Research Intern.",
-      "type": "#Research #DeepLearning #GAN",
-      "priority": 1,  
+      "title": "Iris Segmentation from Illuminated images for Iris Recognition",
+      "date": "July 2019 - Dec 2019",
+      "status": "ongoing",
+      "thumbnail": "projects/multi-domain.png",
+      "role": "Preject for Coursework",
+      "priority": 2,
       "caption": {
-        "en": "Stabilized the error oscillation of Discriminator by adding a damping term to its. objective function. Further, improved structural integrity of outputs by using a pre-training scheme.",
+        "en": "Implemented active illumination removal, iris segmentation using a denoising U-Net architecture and iris feature extraction using CNNs for iris recognition. It was tested on the CASIA v4 dataset. The iris images were pre-processed using various techniques such as eyelid localization, eyelash and eyelid removal and image normalization before being fed into the U-Net for segmentation."
       },
-      "homepage": "#projects",
-      "sourcecode": "https://github.com/pani-vishal/gan_stabilization",
-      "downloads": []
+      "sourcecode": "https://github.com/ImSourin/Illuminated-Iris-Segmentation",
+    },
+    {
+      "title": "End to End Travel Ticket Booking System",
+      "date": "July 2018 - Dec 2018",
+      "status": "ongoing",
+      "thumbnail": "projects/multi-domain.png",
+      "role": "Preject for Coursework",
+      "priority": 1,
+      "caption": {
+        "en": "Developed a travel ticket booking website which books all the tickets for all modes of transport required to travel from one location to another in a single click. Employed a modified A* algorithm to find the optimal path for users. Also, cached requests for efficiency."
+      },
+      "sourcecode": "https://github.com/ImSourin/End-to-End-Travel-Ticket-Booking-System",
     },
 
 
