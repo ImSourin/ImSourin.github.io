@@ -1,0 +1,62 @@
+{
+  "heading" : {"en" : "The Journey So Far..."},
+
+  "terms" : [
+  { "term" : "2017 - present:",
+    "courses" : 
+    [ { "course" : "IIIT - Allahabad",
+        "type"   : "Bachelor (Hons.) of Technology",
+        "role"   : "Information Technology"
+      } ]
+  },
+  { "term" : "",
+    "courses" : 
+    [ { "course" : "",
+        "type"   : "",
+        "role"   : ""
+      } ]
+  },
+  { "term" : "",
+    "courses" : 
+    [ { "course" : "",
+        "type"   : "",
+        "role"   : ""
+      } ]
+  },
+  { "term" : "May 2020 - present:",
+    "courses" : 
+    [ { "course" : "University of Stuttgart",
+        "type"   : "Institute for Photogrammetry",
+        "role"   : "Research Intern"
+      } ]
+  },
+  { "term" : "Feb 2020 - Sept 2020:",
+    "courses" : 
+    [ { "course" : "DRDO, Ministry of Defense",
+        "type"   : "CARS project",
+        "role"   : "Project Personnel"
+      } ]
+  },
+  { "term" : "",
+    "courses" : 
+    [ { "course" : "",
+        "type"   : "",
+        "role"   : ""
+      } ]
+  },
+  { "term" : "",
+    "courses" : 
+    [ { "course" : "",
+        "type"   : "",
+        "role"   : ""
+      } ]
+  },
+  { "term" : "2019 Summer:",
+    "courses" : 
+    [ { "course" : "ISI - Kolkata",
+        "type"   : "ECSU Unit",
+        "role"   : "Research Intern"
+      } ]
+  },
+  ]
+}

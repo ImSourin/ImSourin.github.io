@@ -26,11 +26,11 @@ layout: compress
 </section>
 {% endif %}
 
-{% if site.data.blogs.projects.size > 0 %}
+<!-- {% if site.data.blogs.projects.size > 0 %}
 <section id="blogs" class="container">
 {% include blogs.html %}
 </section>
-{% endif %}
+{% endif %} -->
 
 {% if site.data.talks.talks.size > 0 %}
 <section id="talks" class="container">
@@ -41,6 +41,12 @@ layout: compress
 {% if site.data.committeework.committees.size > 0 %}
 <section id="committeework" class="container">
 {% include committeework.html %}
+</section>
+{% endif %}
+
+{% if site.data.teaching_pro.terms.size > 0 %}
+<section id="teaching" class="container">
+{% include teaching.html %}
 </section>
 {% endif %}
 

@@ -4,8 +4,8 @@ timezone: Europe/Berlin
 baseurl: '' # the subpath of your site, e.g. /blog/
 url: '' # the base hostname & protocol for your site
 
-title: 'Vishal Pani'
-author: 'Vishal Pani'
+title: 'Sourin Chakrabarti'
+author: 'Sourin Chakrabarti'
 
 languages: [ 'en' ]
 
@@ -38,7 +38,7 @@ defaults:
       path: ''
     values:
       lang: en
-      description: 'Personal website of Vishal Pani, a senior at IIIT-Allahabad interested in the intersection of Deep Learning and Computer Graphics. It enlists his projects, blog, and contact information.'
+      description: 'This is the personal website of Sourin Chakrabarti, a IIIT Allahabad graduate and a software developer at Amazon Inc. interested in the intersection of Deep Machine Learning and Optimization. It enlists his projects, experiences, and contact information.'
   - scope:
       path: 'en'
     values:
