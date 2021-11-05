@@ -2,7 +2,7 @@
   <h1>{{ site.data.teaching_pro.heading.[page.lang] | escape }}</h1>
 </div>
 
-{% assign terms = site.data.teaching.terms %} 
+{% assign terms = site.data.teaching_pro.terms %} 
 {% for t in terms %}
   
   {% capture i %}{% cycle 0, 1 %}{% endcapture %}
