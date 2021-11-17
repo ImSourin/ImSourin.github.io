@@ -54,7 +54,7 @@
       "role": "Undergrauate Researcher",
       "priority": 4,
       "caption": {
-        "en": "Implemented a system that detects attacks on a network server in real-time by converting network packets into multi-channel images and detecting anomalies using a novel combination of an SVM with a new feature descriptor and a deep CNN. The network packets retrieved from the CICIDS2017 dataset were normalized and quantized before converting to images. The system also ran live on our college network(~10k nodes) to detect any anomalies in the traffic."
+        "en": "Implemented a system that detects attacks on a network server in real-time by converting network packets into multi-channel images and detecting anomalies using a novel combination of a SVM trained on Fischer Vector descriptions of a faster dense SIFT based on PHOW and last layer CNN features. The network packets retrieved from the CICIDS2017 dataset were normalized and quantized before converting to images. The system also ran live on our college network(~10k nodes) to detect any anomalies in the traffic."
       },
       "sourcecode": "https://github.com/ImSourin/Network-Intrusion-Detection",
     },
@@ -66,7 +66,7 @@
       "role": "Undergrauate Researcher",
       "priority": 3,
       "caption": {
-        "en": "Implemented a text writing system for the disabled using finger movements in front of a camera. Fingertip detection in dynamic backgrounds was carried out through semantic segmentation, upsampling, and skipping connections. OCR for the handwritten text was performed using a dense CNN followed by bidirectional LSTM layers. CTC objective function was used to minimize the loss and Levenshtein distance was chosen to track the performance of the network. The model was trained on the IAM Handwriting Database. It showed an accuracy of about 0.80 on the training set."
+        "en": "Implemented a text writing system for the disabled using finger movements in front of a camera. Fingertip detection in dynamic backgrounds was carried out through an online color training-based skin color classifier based to improve segmentation. OCR for the handwritten text was performed using a dense CNN followed by bidirectional LSTM layers. CTC objective function was used to minimize the loss and Levenshtein distance was chosen to track the performance of the network. The model was trained on the IAM Handwriting Database. It showed an accuracy of about 0.80 on the training set."
       },
       "sourcecode": "https://github.com/ImSourin/Text-Writing-in-Air",
     },
